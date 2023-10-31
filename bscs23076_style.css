@@ -1,0 +1,62 @@
+.navbar {
+    background-color: black;
+    overflow: hidden;
+    height: 20px;
+    width: 1300px;
+    padding: 14px;
+    text-align: center;
+}
+.navbar a
+{
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        font-size: 20px;
+ }
+.navbar a:hover {
+    background-color: white;
+    color: black;
+}
+.unactive {
+    font-size: 20px;
+    color: green;
+}
+.navbar a.active {
+    font-size: 20px;
+    color: green;
+}
+.first--div {
+    height: 300px;
+    width: 1300px;
+    background-color: darkseagreen;
+    margin: 10px;
+    padding: 5px;
+}
+.sec--div {
+    height: 270px;
+    width: 900px;
+    background-color: olivedrab;
+    border: 3px solid;
+    border-radius: 10%;
+    border-color: white;
+    margin: 10px;
+    padding: 5px;
+}
+.center
+{
+    font-size: 40px;
+    text-align-last: center;
+}
+.third--div {
+    height: 200px;
+    width: 1300px;
+    background-color: darkseagreen;
+    margin: 10px;
+    padding: 5px;
+}
+.fourth--div {
+    height: 270px;
+    width: 900px;
+    margin: 10px;
+    padding: 5px;
+}
